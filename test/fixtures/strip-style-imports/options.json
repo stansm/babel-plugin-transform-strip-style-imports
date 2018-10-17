@@ -1,0 +1,3 @@
+{
+  "plugins": ["transform-strip-style-imports"]
+}
